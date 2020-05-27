@@ -1,0 +1,89 @@
+*{ 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://k36.kn3.net/9/3/5/A/9/D/BCC.png);
+}
+
+.form-register{
+    width: 900px;
+    background: black;
+    padding: 30px;
+    margin: auto;
+    margin-top: auto;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+legend{
+    text-align: center;
+    font-size: 22px;
+    font-family:'Calibri';
+}
+h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+a{
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    
+}
+
+.controls{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.preguntas{
+     width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+title{
+    font-family: 'Times New Roman';
+    font-size: 32px;
+    font-style: normal;
+    color: aqua;
+}
+
+.boton{
+    width: 100%;
+    background: blue;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
